@@ -1,0 +1,23 @@
+.register-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15%;
+}
+
+.register-container input {
+  height: 40px;
+  width: 220px;
+  margin: 1em;
+}
+
+.register-container button {
+  height: 40px;
+  width: 220px;
+  background-color: transparent;
+}
+
+.register-container button:hover {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,19 @@
+.card-container{
+    height: 75px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 1em;
+    justify-content: center;
+    position: relative;
+    left: 44%;
+}
+
+
+.card-container h1{
+    font-size: 1em;
+    padding-top: 0.5em;
+}
